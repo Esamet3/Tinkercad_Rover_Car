@@ -1,5 +1,5 @@
 # Tinkercad_Rover_Car
-u proje, Arduino Uno kullanılarak geliştirilmiş, 4 çeker (skid-steer) bir otonom/manuel kontrol sistemidir. L293D motor sürücüsü, HC-SR04 mesafe sensörleri ve akıllı aydınlatma sistemi (LED) içerir.
+Bu proje, Arduino Uno kullanılarak geliştirilmiş, 4 çeker (skid-steer) bir otonom/manuel kontrol sistemidir. L293D motor sürücüsü, HC-SR04 mesafe sensörleri ve akıllı aydınlatma sistemi (LED) içerir.
 
 ## Özellikler
 * Klavyeden Seri Monitör aracılığıyla yön kontrolü (W, A, S, D, Boşluk).
